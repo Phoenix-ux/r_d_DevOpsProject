@@ -1,3 +1,3 @@
 # r_d_DevOpsProject
 
-This is first test project for DevOps course
+This is the first test project for DevOps course
